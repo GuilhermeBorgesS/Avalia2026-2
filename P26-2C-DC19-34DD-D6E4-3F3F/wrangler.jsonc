@@ -6,8 +6,11 @@
   "d1_databases": [
     {
       "binding": "DB",
-      "database_name": "db-p26-2c-dc19-34dd-d6e4-3f3f",
-      "database_id": "00000000-0000-0000-0000-000000000000"
+      "database_name": "duvidas-tecnicas-db",
+      "database_id": "d815da54-7737-42db-8fc5-83092abaf96f"
     }
-  ]
+  ],
+  "vars": {
+    "DISCORD_CLIENT_ID": "1573368136143478974"
+  }
 }
