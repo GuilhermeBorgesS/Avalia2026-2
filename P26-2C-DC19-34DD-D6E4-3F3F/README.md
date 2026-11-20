@@ -4,7 +4,7 @@
 - **Estudante:** Estudante (Modo Offline)
 - **Turma:** 2C
 - **Chave Única:** `P26-2C-DC19-34DD-D6E4-3F3F`
-- **URL_CLOUDFLARE:** `https://p26-2c-dc19-34dd-d6e4-3f3f.pages.dev` *(Atualize com a URL pública real do seu deploy na Cloudflare antes de abrir o Pull Request)*
+- **URL_CLOUDFLARE:** `https://avalia2026-2-forum.pages.dev` *
 
 ---
 
